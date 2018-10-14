@@ -1,2 +1,2 @@
 # DeepLearning
-Some small examples of neural networks in Keras library
+Implementation of simple CNN, RNN in Keras library
